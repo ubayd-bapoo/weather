@@ -48,6 +48,7 @@ JSON returned in a format such as this:
 ## Installation
 Install Python 3.7
 
+Once Python is installed install virtualenv using the below command:
 ```bash
 pip install virtualenv
 ```
